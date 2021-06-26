@@ -1,5 +1,11 @@
 package com.cmb.mode.adapter.interFaceAdapter;
 
+/**
+ * @Author gaozhao
+ * @Param
+ * @Return
+ * @Description: 基于接口的适配器模式
+ */
 public class Test {
     public static void main(String[] args) {
         DC5V dc5V = new Adapter(new AC220V());

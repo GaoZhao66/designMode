@@ -1,7 +1,10 @@
 package com.cmb.mode.builder;
 
 /**
- * Client 建造者模式
+ * @Author gaozhao
+ * @Param
+ * @Return
+ * @Description: 建造者模式
  */
 public class TestBuilder {
     public static void main(String[] args) {
