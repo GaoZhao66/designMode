@@ -1,7 +1,7 @@
 package com.cmb.mode.builder;
 
 /**
- * 建造者a
+ * 建造者ab
  */
 public abstract class Builder {
     /**
